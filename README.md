@@ -1,4 +1,12 @@
-### Hi there 👋
+<h3 align="center">👋 Hi there! I'm Rory Claasen</h3>
+<p align="center">
+  <a href="https://roryclaasen.dev">Website</a> •
+  <a href="https://linkedin.com/in/roryclaasen">LinkedIn</a>
+</p>
+
+---
+
+✨ I'm a software engineer apprentice within Xbox Game Studios in the UK
 
 <!--
 **roryclaasen/roryclaasen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

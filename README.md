@@ -6,7 +6,7 @@
 
 ---
 
-✨ I'm a software engineer apprentice within Xbox Game Studios in the UK
+✨ I'm a software engineer within Xbox Game Studios in the UK
 
 <!--
 **roryclaasen/roryclaasen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
